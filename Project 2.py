@@ -1,5 +1,3 @@
-
-
 # Stock Portfolio Tracker
 
 # Prices of different stocks
